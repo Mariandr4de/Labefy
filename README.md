@@ -44,7 +44,7 @@ Por padrão a aplicação rodará localmente na porta 3000.
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
 </div>
 
-## Imagens
+## 🖨️Imagens
 Pagina Inicial
 
 ![Home](https://user-images.githubusercontent.com/104591781/175831192-20ed236a-d9d2-45e3-be9b-8f755a055b72.png)

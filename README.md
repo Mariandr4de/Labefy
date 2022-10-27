@@ -2,7 +2,7 @@
 
 <h4 align="justify">O Labefy é um pseudo site de músicas, inspirado no Spotify, integrado com a API disponibilizada pela Labenu, que permite o gerenciamento básico de playlists de música, onde tentei ao maximo lembrar o layout do site de inspiração. </h4>
 
-### O que funciona
+## ✔️O que funciona
 - Criar Playlists (Clique ou Enter)
 - Adicionar música na playlist (Clique ou Enter)
 - Listar todas as playlists
@@ -12,13 +12,39 @@
 - Utilizei iframes do spotify e react-icons na estilização
 - Responsividade Funcional
 
-### O que não funciona
--  O player das músicas disposto no Escopo do Projeto (spoti4.future4.com.br/1.mp3) só funcionam localmente.
+## 🔗Link Surge 
 
-### Link Surge 
-https://known-fish.surge.sh/
+[Labefy](https://known-fish.surge.sh/)
 
-### Imagen
+### 💻Como Rodar o Projeto Localmente 
+
+Siga o passo-a-passo abaixo:
+
+| Passo                   | Comando                          |
+| ----------------------- | -------------------------------- |
+| Faça o Clone            | `git clone` deste repositório    |
+| Instale as Dependências | `npm install` ou ` yarn install` |
+| Utilize o Script NPM    | `npm run start` ou `npm run dev` |
+
+Por padrão a aplicação rodará localmente na porta 3000.
+
+## 📚Bibliotecas Utilizadas
+
+- axios
+- react-icons
+- styled-components
+- sweet-alert
+
+## 🛠Tecnologias Utilizadas
+ <div style="display: inline_block"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+</div>
+
+## Imagens
 Pagina Inicial
 
 ![Home](https://user-images.githubusercontent.com/104591781/175831192-20ed236a-d9d2-45e3-be9b-8f755a055b72.png)
@@ -55,12 +81,27 @@ Playlist Deletada
 
 ![Playlist deletada com sucesso](https://user-images.githubusercontent.com/104591781/175831413-c3742b27-7a55-421f-90b9-97f8bba5b389.png)
 
+<div align="center">
+
 Responsividade
 
-![Responsividade (1)](https://user-images.githubusercontent.com/104591781/175831841-85777130-06c6-4952-a5c4-570903c8092f.png)
 
-![Responsividade (4)](https://user-images.githubusercontent.com/104591781/175831857-4a092c5c-18e7-4d97-ab93-9e04292d3bcc.png)
+Tela Inicial             |  Criar Playlist
+:-------------------------:|:-------------------------:
+![Tela Inicial](https://user-images.githubusercontent.com/104591781/175831841-85777130-06c6-4952-a5c4-570903c8092f.png)   |  ![Criar Playlist](https://user-images.githubusercontent.com/104591781/175831857-4a092c5c-18e7-4d97-ab93-9e04292d3bcc.png)
 
-![Responsividade (2)](https://user-images.githubusercontent.com/104591781/175831864-e42dac89-7b49-49ae-a241-aa271af1554a.png)
+Alert de sucesso |  Playlists
+:-------------------------:|:-------------------------:
+![Alert de sucesso](https://user-images.githubusercontent.com/104591781/175831864-e42dac89-7b49-49ae-a241-aa271af1554a.png)   |  ![Playlists](https://user-images.githubusercontent.com/104591781/175831848-1615a44a-e09c-44b2-94e5-1a19f831f89c.png)
+</div>
 
-![Responsividade (3)](https://user-images.githubusercontent.com/104591781/175831848-1615a44a-e09c-44b2-94e5-1a19f831f89c.png)
+
+<h2 align="center"> 
+ 👩🏻‍💻Desenvolvedora 
+</h2>
+
+<table align="center">
+  <tr>
+    </td> <td align="center"><a href="https://www.linkedin.com/in/mariandr4de/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/104591781?v=4" width="100px;" alt=""/><br /><sub><b>Mariana Andrade</b></sub></a> 
+  </tr>
+</table>
